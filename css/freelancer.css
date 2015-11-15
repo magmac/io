@@ -479,4 +479,9 @@ footer .footer-below {
     .portfolio-modal .close-modal .lr .rl { 
         height: 55px;
     }
+    .portfolio-modal .modal-content h2 {
+    text-align:center;
+    margin: 0;
+    font-size: 1.8em;
+}
 }
